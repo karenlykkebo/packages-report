@@ -1,3 +1,7 @@
+#'---
+#' output: github_document
+#' ---
+
 
 # Github testing
 # write a small R script
